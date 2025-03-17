@@ -73,4 +73,41 @@
 <!--            </if>-->
 <!--        </set>-->
 <!--    </update>-->
+
+
+    <select id="findBySingleCondition" parameterType="com.lishengzhi.entity.User" resultType="com.lishengzhi.entity.User">
+        select * from t_user
+        <where>
+            <choose>
+                <when test="username!=null and username!=''">
+                    username like #{username}
+                </when>
+                <when test="password!=null and password!=''">
+                    password like #{password}
+                </when>
+                <when test="gender!=null and gender!=''">
+                    gender like #{gender}
+                </when>
+                <when test="email!=null and email!=''">
+                    email like #{email}
+                </when>
+                <otherwise>
+                    1=1
+                </otherwise>    
+            </choose>
+        </where>
+
+    </select>
+
+
+    <!-- 模糊id查询 -->
+    <select id="findByIds" parameterType="list" resultType="com.lishengzhi.entity.User">
+        select * from t_user
+            <where>
+                <foreach collection="list" item="id" open="id in(" close=")" separator=",">
+                    #{id}
+                </foreach>
+            </where>
+    </select>
+
 </mapper>
