@@ -18,7 +18,7 @@ public interface UserMapper {
     void updateById(User user);
 //    单条件查询
     List<User> findBySingleCondition(User user);
-//    模糊查询
+
     List<User> findByIds(List<Integer> ids);
 }
 

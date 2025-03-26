@@ -100,7 +100,6 @@
     </select>
 
 
-    <!-- 模糊id查询 -->
     <select id="findByIds" parameterType="list" resultType="com.lishengzhi.entity.User">
         select * from t_user
             <where>
