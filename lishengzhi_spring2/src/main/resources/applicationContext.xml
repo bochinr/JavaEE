@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+<!--    bean依赖注入-->
     <bean id="userServe" class="com.lishengzhi_spring2.service.impl.UserServeImpl">
         <property name="userMapper" ref="userMapper" />
         <property name="name" value="李胜志" />
@@ -36,4 +38,15 @@
         <property name="age" value="12" />
     </bean>
     <bean id="userMapper" class="com.lishengzhi_spring2.mapper.impl.UserMapperImpl"></bean>
+
+
+    <context:property-placeholder location="classpath:db.properties" />
+    <!-- 配置DruidDataSource对象，并设置数据源的基本数据 -->
+    <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource">
+        <property name="driverClassName" value="${jdbc.driver}"></property>
+        <property name="url" value="${jdbc.url}"></property>
+        <property name="username" value="${jdbc.username}"></property>
+        <property name="password" value="${jdbc.password}"></property>
+    </bean>
+
 </beans>
