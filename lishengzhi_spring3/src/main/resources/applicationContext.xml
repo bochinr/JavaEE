@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+                            http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+    <!-- 上面用注解进行配置对象，但是spring不知道，需要通过下面context:component-scan扫描注解所在的包，通知spring根据注解去配置相应的对象 -->
+    <!--<context:component-scan base-package="com.lishengzhi_spring3"></context:component-scan>
+-->
+</beans>

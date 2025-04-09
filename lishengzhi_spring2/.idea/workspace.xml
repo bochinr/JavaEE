@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e75afc0-413e-4e20-a5ef-949d189f082b" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SpringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SpringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/main/java/com/lishengzhi_spring3/config/SpringConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/main/java/com/lishengzhi_spring3/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/main/java/com/lishengzhi_spring3/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/main/java/com/lishengzhi_spring3/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/main/java/com/lishengzhi_spring3/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/test/java/SpringTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +63,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kiahim/Documents/Github/JavaEE/lishengzhi_spring2",
+    "last_opened_file_path": "C:/Users/kiahim/Documents/Github/JavaEE/lishengzhi_spring3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -130,6 +134,9 @@
       <workItem from="1744016319106" duration="71000" />
       <workItem from="1744016483132" duration="674000" />
       <workItem from="1744017258814" duration="2784000" />
+      <workItem from="1744120886640" duration="790000" />
+      <workItem from="1744160409376" duration="395000" />
+      <workItem from="1744161220712" duration="1325000" />
     </task>
     <servers />
   </component>
