@@ -5,14 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e75afc0-413e-4e20-a5ef-949d189f082b" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/main/java/com/lishengzhi_spring3/config/SpringConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/main/java/com/lishengzhi_spring3/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/main/java/com/lishengzhi_spring3/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/main/java/com/lishengzhi_spring3/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/main/java/com/lishengzhi_spring3/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lishengzhi_spring3/src/test/java/SpringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/java/com/lishengzhi_mvc/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/java/com/lishengzhi_mvc/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/java/com/lishengzhi_mvc/mapper/impl/UserMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/java/com/lishengzhi_mvc/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/java/com/lishengzhi_mvc/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/webapp/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/lishengzhi_mvc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/target/lishengzhi_mvc.war" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/target/lishengzhi_mvc.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/target/lishengzhi_mvc/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/target/lishengzhi_mvc/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_spring3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_spring3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_spring3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_spring3/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +45,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="customMavenHome" value="C:\Java\apache-maven-3.9.6" />
         <option name="localRepository" value="C:\Java\apache-maven-3.9.6\maven-repository" />
-        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
         <option name="userSettingsFile" value="C:\Java\apache-maven-3.9.6\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -60,10 +70,12 @@
     "JUnit.SpringTest.druidTest3.executor": "Run",
     "JUnit.SpringTest.testAdd.executor": "Run",
     "JUnit.SpringTest.testDruid.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kiahim/Documents/Github/JavaEE/lishengzhi_spring3",
+    "last_opened_file_path": "C:/Users/Kiahim/Documents/Github/JavaEE/lishengzhi_spring2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -137,6 +149,9 @@
       <workItem from="1744120886640" duration="790000" />
       <workItem from="1744160409376" duration="395000" />
       <workItem from="1744161220712" duration="1325000" />
+      <workItem from="1745227532700" duration="473000" />
+      <workItem from="1745335447161" duration="43000" />
+      <workItem from="1745335961815" duration="1027000" />
     </task>
     <servers />
   </component>

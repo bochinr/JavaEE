@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a4d7623-26cc-4859-9a79-f8b9fd17f4d4" name="更改" comment="" />
+    <list default="true" id="0a4d7623-26cc-4859-9a79-f8b9fd17f4d4" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/java/com/lishengzhi_mvc/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/java/com/lishengzhi_mvc/domain/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/java/com/lishengzhi_mvc/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/java/com/lishengzhi_mvc/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/webapp/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/lishengzhi_mvc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/target/lishengzhi_mvc.war" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/target/lishengzhi_mvc.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mvc/target/lishengzhi_mvc/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mvc/target/lishengzhi_mvc/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_spring2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_spring2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +42,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\java\apache-maven-3.9.6\maven-repository" />
-        <option name="mavenHome" value="D:/java/apache-maven-3.9.6" />
-        <option name="userSettingsFile" value="D:\java\apache-maven-3.9.6\conf\settings.xml" />
+        <option name="localRepository" value="C:\java\apache-maven-3.9.6\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../java/apache-maven-3.9.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\java\apache-maven-3.9.6\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -54,7 +79,7 @@
     "WebServerToolWindowFactoryState": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "H:/Github/JavaEE/lishengzhi_mvc",
+    "last_opened_file_path": "C:/Users/Kiahim/Documents/Github/JavaEE/lishengzhi_mybatis",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -113,6 +138,9 @@
       <workItem from="1744172058420" duration="659000" />
       <workItem from="1744722444751" duration="1178000" />
       <workItem from="1744796802396" duration="16000" />
+      <workItem from="1745225560989" duration="997000" />
+      <workItem from="1745226744339" duration="786000" />
+      <workItem from="1745335492527" duration="421000" />
     </task>
     <servers />
   </component>

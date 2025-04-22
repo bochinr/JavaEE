@@ -9,11 +9,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b79f1f8-e0c6-476c-93a8-cca5958f016c" name="Changes" comment="" />
+    <list default="true" id="2b79f1f8-e0c6-476c-93a8-cca5958f016c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lishengzhi_mvc/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lishengzhi_mvc/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lishengzhi_mvc/mapper/impl/UserMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lishengzhi_mvc/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lishengzhi_mvc/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lishengzhi_mvc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lishengzhi_mvc.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/lishengzhi_mvc.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lishengzhi_mvc/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/lishengzhi_mvc/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_spring2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_spring2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_spring3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_spring3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_spring3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_spring3/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -31,16 +62,20 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\java\apache-maven-3.9.6\maven-repository" />
-        <option name="mavenHome" value="D:/java/apache-maven-3.9.6" />
-        <option name="userSettingsFile" value="D:\java\apache-maven-3.9.6\conf\settings.xml" />
+        <option name="localRepository" value="C:\java\apache-maven-3.9.6\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../java/apache-maven-3.9.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\java\apache-maven-3.9.6\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2vmym7bsM3nxGOduPdhBPmmPp1q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,16 +84,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "H:/Github/JavaEE/lishengzhi_mvc",
+    "last_opened_file_path": "C:/Users/Kiahim/Documents/Github/JavaEE/lishengzhi_spring2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "76d50af2594408ecb051e8d8ae3c4bd8",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,7 +105,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.53" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.53" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="17 (2)">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="lishengzhi_mvc:war">
@@ -166,6 +203,13 @@
       <updated>1744764699317</updated>
       <workItem from="1744764700408" duration="4005000" />
       <workItem from="1744796819311" duration="844000" />
+      <workItem from="1745223429413" duration="545000" />
+      <workItem from="1745224190463" duration="4718000" />
+      <workItem from="1745228940928" duration="473000" />
+      <workItem from="1745229433054" duration="155000" />
+      <workItem from="1745232162297" duration="688000" />
+      <workItem from="1745232895578" duration="73000" />
+      <workItem from="1745329452396" duration="6335000" />
     </task>
     <servers />
   </component>
