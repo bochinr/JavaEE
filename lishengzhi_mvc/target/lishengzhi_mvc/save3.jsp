@@ -12,6 +12,6 @@
     <title>Title</title>
 </head>
 <body>
-<h1>我是${username},今年${age}岁。</h1>
+<h1>我是${username},学号${number},班级:${classRoom}。</h1>
 </body>
 </html>
