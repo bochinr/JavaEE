@@ -3,7 +3,7 @@ package com.lishengzhi_mvc.entity;
 public class User {
     private int id;
     private String username;
-    private String age;
+    private int age;
     private String classroom;
     private String number;
 
@@ -34,12 +34,12 @@ public class User {
         this.username = username;
     }
 
-    public String getAge() {
+    public int getAge() {
         return age;
     }
 
     public void setAge(String age) {
-        this.age = age;
+        this.age = Integer.parseInt(age);
     }
 
     public String getClassroom() {

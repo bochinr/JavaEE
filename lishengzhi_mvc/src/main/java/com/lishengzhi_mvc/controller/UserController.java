@@ -1,5 +1,7 @@
 package com.lishengzhi_mvc.controller;
 
+
+import com.fasterxml.jackson.core.JsonEncoding;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.lishengzhi_mvc.entity.User;
@@ -59,19 +61,21 @@ public class UserController {
     }
     @RequestMapping("/save8")
     @ResponseBody
-    public void save8(String username, int age) {
+    public String save8(String username, int age) {
         System.out.println(username + age);
-        System.out.println(username);
-        System.out.println(age);
+        return username + age;
     }
     @RequestMapping("/save9")
     @ResponseBody
-    public void save9(User user) {
+    public User save9(User user) {
         System.out.println(user);
+        return user;
     }
     @RequestMapping("/save10")
     @ResponseBody
     public void save10(String[] str) {
         System.out.println(str);
     }
+
+
 }
