@@ -5,6 +5,7 @@ import com.fasterxml.jackson.core.JsonEncoding;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.lishengzhi_mvc.entity.User;
+import com.lishengzhi_mvc.entity.VO;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -12,6 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.util.List;
 
 @Controller
 public class UserController {
@@ -76,6 +78,17 @@ public class UserController {
     public void save10(String[] str) {
         System.out.println(str);
     }
+
+    @RequestMapping("/save11")
+    @ResponseBody
+    public void save11(VO vo) {
+        List<User> list = vo.getList();
+        for (int i = 0;i < list.size();i++) {
+            User user = list.get(i);
+            System.out.println(user);
+        }
+    }
+
 
 
 }
