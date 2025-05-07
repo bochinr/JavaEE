@@ -7,6 +7,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.lishengzhi_mvc.entity.User;
 import com.lishengzhi_mvc.entity.VO;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
@@ -89,6 +90,11 @@ public class UserController {
         }
     }
 
+    @RequestMapping("/save12")
+    @ResponseBody
+    public List<User> save12(@RequestBody List<User> list) {
+        return list;
+    }
 
 
 }

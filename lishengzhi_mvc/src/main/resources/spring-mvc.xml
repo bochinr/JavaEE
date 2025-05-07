@@ -17,7 +17,8 @@
 
 <!--     mvc的注解驱动 -->
     <mvc:annotation-driven/>
-
+    <!-- 用底下这标签，开放所有静态资源，取代配置访问静态资源,交由默认的tomcat服务器（不经过dispatcherServlet）去访问静态资源 -->
+    <mvc:default-servlet-handler/>
 <!--    <mvc:annotation-driven>-->
 <!--        <mvc:message-converters>-->
 <!--            <bean class="org.springframework.http.converter.StringHttpMessageConverter">-->
