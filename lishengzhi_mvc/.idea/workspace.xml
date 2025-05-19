@@ -10,8 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b79f1f8-e0c6-476c-93a8-cca5958f016c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/ajax.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lishengzhi_mvc/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lishengzhi_mvc/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lishengzhi_mvc/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lishengzhi_mvc/controller/UserController.class" afterDir="false" />
@@ -211,7 +212,9 @@
       <workItem from="1745808074943" duration="332000" />
       <workItem from="1745828264849" duration="5103000" />
       <workItem from="1745972538440" duration="4821000" />
-      <workItem from="1746577493800" duration="3541000" />
+      <workItem from="1746577493800" duration="3924000" />
+      <workItem from="1747037931324" duration="713000" />
+      <workItem from="1747042349921" duration="1639000" />
     </task>
     <servers />
   </component>
