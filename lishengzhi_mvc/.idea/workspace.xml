@@ -10,16 +10,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b79f1f8-e0c6-476c-93a8-cca5958f016c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/src/main/java/com/lishengzhi/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/src/main/java/com/lishengzhi/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/src/main/java/com/lishengzhi/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/src/main/java/com/lishengzhi/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/src/main/java/com/lishengzhi/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi/src/main/webapp/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/lishengzhi_ssm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/src/main/java/com/lishengzhi_ssm/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/src/main/java/com/lishengzhi_ssm/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/src/main/java/com/lishengzhi_ssm/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/src/main/java/com/lishengzhi_ssm/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/src/main/java/com/lishengzhi_ssm/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lishengzhi_SSM/src/main/webapp/register.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lishengzhi_mvc/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lishengzhi_mvc/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lishengzhi_mvc/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lishengzhi_mvc/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lishengzhi_mvc.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/lishengzhi_mvc.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lishengzhi_mvc/WEB-INF/classes/com/lishengzhi_mvc/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/lishengzhi_mvc/WEB-INF/classes/com/lishengzhi_mvc/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lishengzhi_mvc/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/lishengzhi_mvc/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_mybatis/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_mybatis/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lishengzhi_spring3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lishengzhi_spring3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,26 +98,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Spring Cloud/RuoYi-Vue-master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;76d50af2594408ecb051e8d8ae3c4bd8&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Kiahim/Documents/Github/JavaEE/lishengzhi_mybatis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "spring.configuration.checksum": "76d50af2594408ecb051e8d8ae3c4bd8",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Github\JavaEE\lishengzhi_mvc\src\main\webapp\images" />
@@ -215,6 +243,14 @@
       <workItem from="1746577493800" duration="3924000" />
       <workItem from="1747037931324" duration="713000" />
       <workItem from="1747042349921" duration="1639000" />
+      <workItem from="1747645522998" duration="1323000" />
+      <workItem from="1747759412408" duration="1299000" />
+      <workItem from="1747762224300" duration="754000" />
+      <workItem from="1747786881740" duration="615000" />
+      <workItem from="1747788725499" duration="1768000" />
+      <workItem from="1748007199779" duration="575000" />
+      <workItem from="1748036859351" duration="469000" />
+      <workItem from="1748037743068" duration="27000" />
     </task>
     <servers />
   </component>
