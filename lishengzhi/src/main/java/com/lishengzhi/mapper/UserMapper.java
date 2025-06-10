@@ -12,4 +12,6 @@ public interface UserMapper {
     //查询所有用户数据
     List<User> findAll();
 
+    User findByUsernameAndPassword(User user);
+    void deleteById(int id);
 }

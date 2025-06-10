@@ -9,6 +9,10 @@
 
     </insert>
 
+<!--    用户登录-->
+    <select id="findByUsernameAndPassword" parameterType="user" resultType="user">
+        select * from t_user where username=#{username} and password=#{password}
+    </select>
     <!--    删除数据-->
     <delete id="deleteById" parameterType="int">
         delete from t_user where id=#{id}

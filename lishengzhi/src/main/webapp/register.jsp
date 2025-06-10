@@ -2,7 +2,6 @@
 <html>
 <body>
 <form action="/lishengzhi_war/save" method="post">
-  ID：<input type="text" name="id"/><br/>
   姓名：<input type="text" name="username"/><br/>
   密码：<input type="text" name="password"/><br/>
   性别：<input type="text" name="gender"/><br/>
